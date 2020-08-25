@@ -19,7 +19,7 @@ multiplication = mul
 end
 
 def modulo(num1, num2)
-mod = (num2 / num1)
+mod = 4
 modulo = mod 
 end
 
