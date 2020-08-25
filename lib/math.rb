@@ -1,5 +1,5 @@
 def addition(num1, num2)
-add = num1.class + num2.class #== Integer
+add = (num1 + num2)
 addition = add 
 end
 
