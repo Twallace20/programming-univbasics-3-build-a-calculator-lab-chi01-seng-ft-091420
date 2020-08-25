@@ -4,21 +4,26 @@ addition = add
 end
 
 def subtraction(num1, num2)
-puts num2 - num1
+diff = (num2 - num1)
+subtraction = diff 
 end
 
 def division(num1, num2)
-puts num2 / num1
+div =  (num2 / num1)
+division = div 
 end
 
 def multiplication(num1, num2)
-puts num1 * num2
+mul = (num1 * num2)
+multiplication = mul 
 end
 
 def modulo(num1, num2)
-puts num2 / num1
+mod = (num1 / num2)
+modulo = mod 
 end
 
 def square_root(num)
-puts num * num 
+sqr = (num * num) 
+square_root = sqr 
 end
