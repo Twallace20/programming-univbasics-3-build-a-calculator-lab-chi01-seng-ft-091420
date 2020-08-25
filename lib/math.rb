@@ -1,5 +1,5 @@
 def addition(num1, num2)
-puts (num1.class + num2.class #== Integer)
+puts (num1.class + num2.class) #== Integer
 end
 
 def subtraction(num1, num2)
